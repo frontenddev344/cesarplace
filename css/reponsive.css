@@ -59,6 +59,12 @@
 
 }
 
+@media screen and (max-width: 991px) {
+    .next_img.location img {
+        max-width: 100%;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .next_banner {
         padding: 40px 0px;
@@ -72,10 +78,12 @@
         font-size: 35px;
 
     }
+
     h2 {
         font-size: 30px;
-        
+
     }
+
     .next_banner {
         padding: 40px 0px;
     }
