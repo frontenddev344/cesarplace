@@ -693,10 +693,16 @@ a.contact_btn:hover {
 }
 
 /*START SOCIAL PROFILE CSS*/
-.social_profile {
+/* .social_profile {
     margin-top: 10px;
+} */
+.single_footer.single_footer_address.below_address {
+    justify-content: end;
+    align-items: center;
+    height: 100%;
+    border-right: 1px solid #fff;
+    padding-right: 10px;
 }
-
 .social_profile ul {
     list-style: outside none none;
     margin: 0;
