@@ -63,4 +63,7 @@
     .next_banner {
         padding: 40px 0px;
     }
+    .pages.mb-2 {
+        height: auto;
+    }
 }
