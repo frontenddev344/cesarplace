@@ -63,7 +63,19 @@
     .next_banner {
         padding: 40px 0px;
     }
+
     .pages.mb-2 {
         height: auto;
+    }
+
+    .banner_box h1 {
+        font-size: 35px;
+
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .banner_box h1 {
+        font-size: 30px;
     }
 }
