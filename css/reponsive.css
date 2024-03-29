@@ -93,5 +93,8 @@
     .banner_box h1 {
         font-size: 30px;
     }
-
+    .single_footer h4 {
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
 }
