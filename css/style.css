@@ -398,7 +398,7 @@ nav {
 .experience_inner img {
     height: 250px;
     object-fit: cover;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .experience_inner span {
