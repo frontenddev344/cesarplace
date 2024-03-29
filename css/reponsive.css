@@ -81,11 +81,14 @@
 
     h2 {
         font-size: 30px;
-
+        margin: 0px 0 20px 0;
     }
 
     .next_banner {
         padding: 40px 0px;
+    }
+    .thessa_detail {
+        padding: 40px 0;
     }
 }
 
