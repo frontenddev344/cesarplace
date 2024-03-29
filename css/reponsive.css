@@ -107,6 +107,11 @@
     .thessa_main_inner {
         margin-bottom: 20px;
     }
+    .single_footer.single_footer_address.below_address {
+        justify-content: start;
+        border-right: unset;
+        margin-bottom: 10px;
+    }
 }
 
 @media screen and (max-width: 575px) {
