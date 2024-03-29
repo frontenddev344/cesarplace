@@ -60,9 +60,7 @@
 }
 
 @media screen and (max-width: 991px) {
-    .next_img.location img {
-        max-width: 100%;
-    }
+    
 }
 
 @media screen and (max-width: 767px) {
@@ -127,5 +125,8 @@
     .panel-default>.panel-heading a {
         font-size: 18px;
         padding: 20px 17px;
+    }
+    .next_img.location img {
+        max-width: 100%;
     }
 }
