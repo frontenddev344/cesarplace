@@ -463,7 +463,11 @@ nav {
     padding: 80px 0;
 
 }
-
+.thessa-inner.mb-3 {
+    border: 1px solid  #000;
+    padding: 10px;
+    height: 500px;
+}
 /* thessa styling end */
 /* bathhouse styling start */
 .bathhouse_banner {
