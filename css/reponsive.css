@@ -61,10 +61,7 @@
         padding: 10px;
         height: 500px;
     }
-    .thessa-inner.mb-3 {
-       
-        height: auto;
-    }
+   
 }
 
 @media screen and (max-width: 991px) {
