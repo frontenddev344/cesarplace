@@ -95,6 +95,12 @@
     .thessa_main_inner p {
         margin-top: 20px;
     }
+    .hotel_accordian {
+        padding: 40px 0;
+    }
+    .experience_section {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width: 575px) {
