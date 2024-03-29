@@ -87,9 +87,11 @@
     .next_banner {
         padding: 40px 0px;
     }
+
     .thessa_detail {
         padding: 40px 0;
     }
+
     .thessa_main_inner p {
         margin-top: 20px;
     }
@@ -99,8 +101,14 @@
     .banner_box h1 {
         font-size: 30px;
     }
+
     .single_footer h4 {
         margin-top: 20px;
         margin-bottom: 5px;
+    }
+
+    .panel-default>.panel-heading a {
+        font-size: 18px;
+        padding: 20px 17px;
     }
 }
