@@ -101,6 +101,12 @@
     .experience_section {
         padding: 40px 0;
     }
+    .thessa_main_inner p {
+        margin-top: 20px;
+    }
+    .thessa_main_inner {
+        margin-bottom: 20px;
+    }
 }
 
 @media screen and (max-width: 575px) {
