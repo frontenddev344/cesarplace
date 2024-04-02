@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
     --primary-color: #11ACE4;
@@ -8,7 +8,8 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "Vidaloka", serif;
+    /* font-family: "Montserrat", sans-serif; */
+
 }
 
 ul,
@@ -291,9 +292,11 @@ nav {
     justify-content: space-between;
     align-items: center;
 }
+
 .athenainfo img {
     border: 1px solid #fff;
 }
+
 .athenainfo h3 {
     margin-top: 10px;
     color: #fff;
@@ -464,11 +467,13 @@ nav {
     padding: 80px 0;
 
 }
+
 .thessa-inner.mb-3 {
-    border: 1px solid  #000;
+    border: 1px solid #000;
     padding: 10px;
     height: 100%;
 }
+
 /* thessa styling end */
 /* bathhouse styling start */
 .bathhouse_banner {
