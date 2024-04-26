@@ -215,6 +215,7 @@ nav {
 .next_banner {
     padding: 80px 0px;
     background-color: var(--secondary-color);
+    overflow: hidden;
 }
 
 .next_text {
