@@ -241,6 +241,10 @@ nav {
 
 .next_img.location img {
     max-width: 60%;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
 /* location styling end */
@@ -318,7 +322,7 @@ nav {
 /* athena more info styling end */
 /* below text styling start */
 .below_text {
-    padding: 80px 0;
+    padding: 50px 0;
 }
 
 /* below text styling end */
@@ -443,13 +447,13 @@ nav {
 
 .thessa-inner img {
     width: 100%;
-    height: 200px;
+    height: 100%;
     object-fit: cover;
 }
 
 .thessa-inner article {
     overflow: hidden;
-    height: 200px;
+    height: 250px;
     display: block;
     width: 100%;
     margin-bottom: 10px;
@@ -457,11 +461,12 @@ nav {
 
 .thessa_main_inner p {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .thessa_main_inner {
     margin-bottom: 50px;
+
 }
 
 .thessa_detail {
@@ -837,7 +842,7 @@ a.btn.btn-primary.setting-cookies:hover {
 
 /* accordian styling start */
 .hotel_accordian {
-    padding: 80px 0;
+    padding-bottom: 30px ;
 }
 
 .panel-default>.panel-heading {
@@ -898,3 +903,46 @@ a.btn.btn-primary.setting-cookies:hover {
 }
 
 /* accordian styling end */
+/* new css start here */
+.slick-prev:before, .slick-next:before {
+    font-size: 30px;
+    color: #11ace4;
+}
+.slick-prev {
+    left: 47%;
+}
+.slick-next {
+    right: 47%;
+}
+.slick-prev, .slick-next {
+    top: 100%;
+}
+.gambling-disclaimer{
+    padding: 20px 0;
+}
+.gambling-disclaimer h4{
+    font-size: 22px;
+    color: #11ace4;
+margin-bottom: 10px;
+}
+.gambling-disclaimer p{
+    font-size: 14px;
+}
+.next_text p {
+    margin-bottom: 10px;
+}
+.thessa-inner a{
+    margin-top: 10px;
+    display: inline-block;
+    width: fit-content;
+}
+.thessa-inner h3 {
+    min-height: 70px;
+}
+.thessa-inner p{
+    min-height: 270px;
+}
+.thessa-inner {
+    margin-bottom: 30px;
+}
+/* new css end here */
