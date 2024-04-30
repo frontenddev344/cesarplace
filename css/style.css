@@ -953,4 +953,8 @@ margin-bottom: 10px;
     object-fit: cover;
     width: 100%;
 }
+.multiple-items 
+ .next_img {
+    height: auto !important;
+}
 /* new css end here */
