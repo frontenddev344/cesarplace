@@ -160,6 +160,9 @@
 }
 
 @media screen and (max-width: 575px) {
+    .navbar .navlink {
+        margin-left: 0;
+    }
     .navlink {
         width: 100%;
     }
