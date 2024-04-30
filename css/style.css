@@ -945,4 +945,12 @@ margin-bottom: 10px;
 .thessa-inner {
     margin-bottom: 30px;
 }
+.next_img {
+    height: 100%;
+}
+.next_img img {
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
 /* new css end here */
