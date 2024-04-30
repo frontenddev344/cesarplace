@@ -68,6 +68,9 @@
     .thessa-inner p {
         min-height: 370px;
     }
+    .next_img {
+        height: 38em;
+    }
 }
 
 @media screen and (max-width: 991px) {
