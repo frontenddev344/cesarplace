@@ -92,6 +92,9 @@
 }
 
 @media screen and (max-width: 767px) {
+    .next_img {
+        height: 20em;
+    }
     .thessa-inner p, .thessa-inner h3 {
         min-height: auto;
     }
